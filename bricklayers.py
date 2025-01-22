@@ -11,7 +11,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 #
-# Copyright (c) [2024] [Roman Tenger]
+# Copyright (c) [2025] [Roman Tenger]
 import re
 import sys
 import logging
